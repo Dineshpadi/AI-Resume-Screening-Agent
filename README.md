@@ -177,7 +177,4 @@ Sample response:
 - Add persistence for ATS results in a relational/database storage layer.
 - Extend Streamlit UI with upload capability and filtering.
 
-## License
-
-This project is provided under the MIT License. See `LICENSE` (add one if required) for details.
 
