@@ -1,0 +1,51 @@
+Dinesh R
+ +91-7397500649
+# dinesh1812003@gmail.com
+ï linkedin § GitHub
+Summary
+Aspiring Data Analyst with a strong foundation in statistical analysis, data visualization, and database
+management. Proficient in Excel, SQL, Python, and Power BI,Machine Learning. Passionate about leveraging
+data-driven insights to solve complex problems and drive business decisions. Eager to apply my analytical skills and
+enthusiasm for data in a dynamic and growth-oriented organization.
+Skills
+Programming & Querying: SQL, Python.
+Libraries /Frameworks: NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn.
+Data Visualization Tools: Advanced MS Excel, Power BI.
+Analytical Abilities: Data Cleaning, Exploratory Data Analysis (EDA), Insight Generation.
+Experience
+Besant Technologies
+July 2025 – Present
+Data Science Intern
+Karnataka
+– Pursuing training in Python, Statistics, Machine Learning, and SQL.
+– Working on EDA, predictive modeling, and real-time projects.
+– Gaining hands-on experience with Pandas, Matplotlib, Seaborn, and Scikit-Learn.
+Soft-Tech Technologies
+Dec 2022 – Mar 2023
+Fullstack Intern
+Coimbatore,Tamilnadu
+– Created a responsive E-commerce website using Html,Css,JS.
+Projects
+Customer Churn Analysis Dashboard | Excel, Power BI
+2025
+– Built a Power BI dashboard analyzing churn trends across 10,000+ customers (20.37% churn rate).
+– Analyzed customer behavior using demographic and financial factors such as age, credit score, balance, and product type.
+– Applied DAX and data modeling to create dynamic KPIs and visualizations.
+– Identified high-risk customer segments to support data-driven retention strategies.
+Apple Stock Analysis Dashboard | SQL,Excel, Power BI
+2025
+– Developed an interactive Power BI dashboard to analyze Apple (AAPL) stock performance over time, featuring KPIs for
+Total Close, High, Low, Open, and Volume across selected date ranges.
+– Designed trend and comparison visuals including monthly closing trends, stock volume vs price analysis, and closing-high
+relationship charts for actionable financial insights.
+– The dashboard provides a clear view of stock trends, helping identify price fluctuations, trading volume patterns, and
+seasonal behaviors for informed investment decision-making.
+Education
+B.Tech. Information Technology
+Graduated: 2024
+Hindusthan College of Engineering and Technology,Coimbatore
+CGPA: 8.25 / 10
+Certifications
+• Java: Completed a Java Fundamental online course.
+• NPTEL offline course(2023): completed a offline course of Cloud Computing Course in college and Gained a 70
+Percent.

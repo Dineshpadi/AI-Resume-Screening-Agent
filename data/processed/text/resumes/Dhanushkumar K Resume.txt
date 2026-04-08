@@ -1,0 +1,70 @@
+Dhanushkumar K  
+Bangalore | +918344505279 | dhanuskd64@gmail.com  
+LinkedIn: linkedin.com/in/dhanushkumar-k-290085253 | GitHub: github.com/IamKD64  
+Summary  
+Data Scientist with strong hands-on experience in building Machine Learning and Deep Learning models across time-series 
+analytics, healthcare prediction and NLP. Skilled in EDA, feature engineering, model training, hyperparameter tuning, and 
+performance evaluation using metrics such as ROC-AUC, Precision, Recall and F1-score. Experienced in applying Explainable AI 
+(SHAP) and fairness evaluation to improve model interpretability and trust. Proficient in Python, SQL, TensorFlow, Scikit-learn, 
+and delivering insights using Power BI/Tableau dashboards.  
+Technical Skills   
+Programming: Python, SQL   
+ML Algorithms: Logistic Regression, Random Forest, Supervised Learning, Unsupervised Learning  
+Deep Learning: CNN, RNN, LSTM, Reinforcement Learning  
+NLP: Tokenization, TF-IDF, Sentiment Analysis  
+GenAI: Chatbot Development  
+Explainable AI: SHAP, Model Fairness Metrics  
+Analytics: EDA, Feature Engineering, Data Validation, Descriptive & Inferential Statistics  
+Visualization: Power BI, Tableau, Matplotlib, Seaborn  
+Libraries/Frameworks: Pandas, NumPy, Scikit-learn, TensorFlow, Keras  
+Projects  
+NASA Turbofan Anomaly Detection | Python, Isolation Forest, LSTM, TensorFlow, Time-Series Analysis  
+• 
+Developed an anomaly detection pipeline for multivariate sensor time-series data to support predictive maintenance.   
+• 
+Built and validated an LSTM-based anomaly detection model, improving early engine failure detection by ~35%.  
+XAI-Based Bias Detection | Python, Scikit-learn, SHAP, Fairness Metrics  
+• 
+Built an Explainable AI (XAI) framework to identify and analyze bias in classification decisions.   
+• 
+Applied SHAP feature attribution and fairness metrics to enhance interpretability and bias-aware model evaluation  
+Heart Disease Prediction | Python, TensorFlow, Keras, Deep Neural Networks  
+• 
+Designed and trained deep neural network models on clinical datasets for heart disease risk prediction.   
+• 
+Achieved strong classification performance supporting early detection and clinical decision insights.  
+Smart Voice Assistant (Santa) | Python, NLP, Speech Recognition, Emotion Recognition  
+• 
+Developed an automation-focused voice assistant to execute tasks such as reminders, email triggers, and system commands.   
+• 
+Integrated emotion recognition to enable context-aware personalization and improved human-like interaction.  
+US Road Accidents Analysis Dashboard | Power BI, DAX, Data Modelling  
+• 
+Built an interactive dashboard for accident analytics using KPI tracking, trends, and geo-based visualizations.   
+• 
+Enabled identification of high-risk regions and accident patterns for actionable safety planning.  
+Experience  
+Data Science Intern | Besant Technologies  
+Bangalore | Jul 2025 – Dec 2025  
+• 
+Performed end-to-end analysis on 50,000+ records using Python & SQL including EDA, validation, and feature engineering 
+to detect trends, anomalies, and performance gaps.   
+• 
+Built and evaluated ML models (Logistic Regression, Random Forest) for retention & forecasting, improving retention 
+metrics by 15%.   
+• 
+Improved model evaluation workflow and reporting, reducing manual validation effort by 40%, using ROC-AUC, 
+Precision, Recall and F1-score based performance monitoring.  
+• 
+Automated recurring reporting workflows using Python, saving 10+ hours/week while improving consistency.  
+Education  
+B.Tech – Artificial Intelligence and Data Science | Gnanamani College of Technology, Namakkal | 70.3% (2021 – 2025)  
+HSC | Government Boys Higher Secondary School, Attur | 73% (2019–2021)   
+SSLC | Government Boys Higher Secondary School, Attur | 61% (2019)  
+Certifications  
+• 
+PMKVY 4.0 – Software Programmer Course  
+• 
+Data Analyst Intern – Cognitive IT Solutions Private Limited 
+• 
+Machine Learning Intern – Viwise Tech Softwares  

@@ -1,0 +1,63 @@
+Data Scientist – Job Description
+Job Summary
+We are seeking a highly motivated Data Scientist to join our analytics team. The ideal candidate will
+work with large datasets to derive actionable insights, build predictive models, and support
+data-driven decision-making across the organization.
+Key Responsibilities
+•
+Collect, clean, and preprocess large datasets from multiple sources.
+•
+Develop and deploy machine learning models for prediction and classification tasks.
+•
+Perform exploratory data analysis (EDA) to identify trends and patterns.
+•
+Build predictive models using regression, clustering, and classification techniques.
+•
+Create dashboards and reports using Power BI or Tableau.
+•
+Collaborate with crossIfunctional teams to translate business problems into analytical
+solutions.
+Required Skills
+•
+Python or R programming
+•
+Pandas, NumPy, Scikit-learn
+•
+Machine Learning algorithms
+•
+SQL and database management
+•
+Data visualization (Matplotlib, Seaborn, Power BI, Tableau)
+•
+Statistics and probability
+AI Engineer – Job Description
+Job Summary
+We are looking for a talented AI Engineer to design, develop, and deploy artificial intelligence and
+machine learning solutions. The role involves building intelligent systems, optimizing machine
+learning models, and integrating AI capabilities into production applications.
+Key Responsibilities
+•
+Design and develop AI and machine learning models for realIworld applications.
+•
+Build and optimize deep learning models using TensorFlow or PyTorch.
+•
+Develop NLP or computer vision systems.
+•
+Implement model training, evaluation, and deployment pipelines.
+•
+Integrate AI solutions into applications using APIs and microservices.
+•
+Work with large datasets for model training and evaluation.
+Required Skills
+•
+Python programming
+•
+Machine learning and deep learning algorithms
+•
+TensorFlow, PyTorch, or Keras
+•
+NLP or Computer Vision techniques
+•
+Docker or Kubernetes for deployment
+•
+REST APIs and backend development
